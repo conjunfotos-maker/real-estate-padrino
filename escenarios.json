@@ -1,0 +1,52 @@
+{
+  "scenarios": [
+    {
+      "id": "esc_default",
+      "name": "Escenario base",
+      "data": {
+        "precio": 250000,
+        "gestoria_c": 600,
+        "ahorro_pct": 20,
+        "r_electro": 3000,
+        "r_mobil": 4000,
+        "r_pintura": 800,
+        "r_electr": 1200,
+        "r_font": 600,
+        "r_otros": 500,
+        "alquiler": 1200,
+        "meses": 11,
+        "g_hipoteca": 900,
+        "g_comunidad": 80,
+        "g_gestoria": 60,
+        "g_seguro": 40,
+        "g_ibi": 50,
+        "g_reparaciones": 30,
+        "g_basuras": 10
+      }
+    },
+    {
+      "id": "esc_1780839950474",
+      "name": "Piso prueba",
+      "data": {
+        "precio": 160000,
+        "gestoria_c": 600,
+        "ahorro_pct": 25,
+        "r_electro": 1000,
+        "r_mobil": 1000,
+        "r_pintura": 500,
+        "r_electr": 200,
+        "r_font": 200,
+        "r_otros": 200,
+        "alquiler": 850,
+        "meses": 12,
+        "g_hipoteca": 450,
+        "g_comunidad": 20,
+        "g_gestoria": 60,
+        "g_seguro": 40,
+        "g_ibi": 50,
+        "g_reparaciones": 30,
+        "g_basuras": 10
+      }
+    }
+  ]
+}
