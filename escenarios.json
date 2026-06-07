@@ -29,7 +29,7 @@
       "name": "Piso prueba",
       "data": {
         "precio": 160000,
-        "gestoria_c": 600,
+        "gestoria_c": 700,
         "ahorro_pct": 25,
         "r_electro": 1000,
         "r_mobil": 1000,
